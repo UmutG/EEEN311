@@ -1,3 +1,5 @@
+; Calculate summation of an array elements.
+; a [] = {11, 22, 33, 44, 55}
 org 100h
     mov al, 00h
     mov SI, 04h
