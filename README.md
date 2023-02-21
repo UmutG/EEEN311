@@ -1,1 +1,2 @@
-# EEEN311 - Microprocessors and programming with 8086 emu
+# EEEN311
+Microprocessors and programming with 8086 emu
